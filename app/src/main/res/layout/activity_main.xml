@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.linwei.lw.tablayoutdemo.ui.activity.MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:text="TabLayout基本使用:"
+                android:textColor="@android:color/black"
+                android:textSize="18sp"/>
+            <Button
+                style="@style/btn"
+                android:onClick="shortTab"
+                android:text="Tab固定模式"/>
+
+            <Button
+                style="@style/btn"
+                android:onClick="longTab"
+                android:text="Tab滚动模式"/>
+
+            <Button
+                style="@style/btn"
+                android:onClick="ImageTab"
+                android:text="Tab图片显示。"/>
+
+            <Button
+                style="@style/btn"
+                android:onClick="ImageTextTab"
+                android:text="Tab图片和文字显示。"/>
+
+            <Button
+                style="@style/btn"
+                android:onClick="StyleTab"
+                android:text="使用样式定义Tab"/>
+
+            <Button
+                style="@style/btn"
+                android:onClick="custom"
+                android:text="自定义view"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:text="TabLayout属性四种用法。"
+                android:textColor="@android:color/black"
+                android:textSize="18sp"/>
+
+            <Button
+                style="@style/btn"
+                android:onClick="TabMode1"
+                android:text="@string/mode1"/>
+
+            <Button
+                style="@style/btn"
+                android:onClick="TabMode2"
+                android:text="@string/mode2"/>
+
+            <Button
+                style="@style/btn"
+                android:onClick="TabMode3"
+                android:text="@string/mode3"/>
+
+            <Button
+                style="@style/btn"
+                android:onClick="TabMode4"
+                android:text="@string/mode4"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

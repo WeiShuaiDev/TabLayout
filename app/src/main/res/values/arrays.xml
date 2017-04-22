@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tab_short_Title">
+        <item>头条</item>
+        <item>要闻</item>
+        <item>娱乐</item>
+        <item>体育</item>
+    </string-array>
+
+    <string-array name="tab_long_Title">
+        <item>头条</item>
+        <item>要闻</item>
+        <item>娱乐</item>
+        <item>体育</item>
+        <item>财经</item>
+        <item>科技</item>
+        <item>时尚</item>
+        <item>视频</item>
+        <item>直播</item>
+    </string-array>
+</resources>

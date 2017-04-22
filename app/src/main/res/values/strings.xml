@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TabLayoutDemo</string>
+    <string name="mode1">tabGravity=fill和tabMode=fixed</string>
+    <string name="mode2">tabGravity=center和tabMode=fixed</string>
+    <string name="mode3">tabGravity=fill和tabMode=scrollable</string>
+    <string name="mode4">tabGravity=cente和tabMode=scrollable</string>
+</resources>
