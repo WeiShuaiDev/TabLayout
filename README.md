@@ -5,6 +5,8 @@ Google官方在14年Google I/O上推出了全新的设计语言——Material De
 如果Open Coder对您有很大帮助，您愿意扫描下面的二维码，只需要支付0.01，表达您对我认可和鼓励。
 > 非常感谢您的捐赠。谢谢!
 
+![微信支付](https://github.com/offersing/tablayout/blob/master/weixin_pay.jpg "微信支付")
+![支付宝支付](https://github.com/offersing/tablayout/blob/master/zifubao_pay.jpg "支付宝支付")
 
 ## About me
 + **Email:linwei9605@gmail.com**
