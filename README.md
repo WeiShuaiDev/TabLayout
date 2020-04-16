@@ -7,8 +7,7 @@ Google官方在14年Google I/O上推出了全新的设计语言——Material De
 compile 'com.android.support:design:25.3.1'
 ```
 ### 二、最终的效果图
-<img src="https://github.com/offersing/tablayout/blob/master/screenshots/final_effect.png" width="320" alt="最终效果">
-
+<img src="https://github.com/offersing/tablayout/blob/master/screenshots/final_effect.png" width=20%>
 
 ## 赞赏
 如果Open Coder对您有很大帮助，您愿意扫描下面的二维码，只需要支付0.01，表达您对我认可和鼓励。
