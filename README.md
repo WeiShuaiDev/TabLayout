@@ -10,8 +10,8 @@ compile 'com.android.support:design:25.3.1'
 <img src="https://github.com/offersing/tablayout/blob/master/screenshots/final_effect.png" width=20%>
 
 ## 赞赏
-如果Open Coder对您有很大帮助，您愿意扫描下面的二维码，只需要支付0.01，表达您对我认可和鼓励。
-> 非常感谢您的捐赠。谢谢!
+在开源的同时，解决别人需求，是一件很高兴的事。
+> 赠人玫瑰，手留余香
 
 <div align="center">
 <img src="https://github.com/offersing/tablayout/blob/master/screenshots/weixin_pay.jpg" width=20%>
